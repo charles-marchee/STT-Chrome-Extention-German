@@ -1,4 +1,4 @@
-# SpeechToText-German
+# STT-Chrome-Extention-German
 With this speech to text you will get the change to use asr with auto punctuation without any external API Calls except for the asr retrieved by google.
 
 1. Just download the folder
